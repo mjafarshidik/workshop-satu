@@ -8,11 +8,6 @@ import androidx.core.view.WindowInsetsCompat
 import com.penatabahasa.workshop1.R
 
 class MainActivity : AppCompatActivity() {
-    var firstName : string = ""
-
-    private fun playGame() {
-
-    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
