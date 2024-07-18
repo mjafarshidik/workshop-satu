@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Workshop 1</string>
+    <string name="monyet">Asifa monyet</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="desc_login">Login to stay connected and share \nyour moments.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="register_here">Register Here</string>
+</resources>
